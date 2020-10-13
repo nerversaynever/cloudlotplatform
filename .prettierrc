@@ -1,0 +1,5 @@
+{
+	 "printWidth": 120,
+	"semi":false,         // 在格式化的时候不加分号
+	"singleQuote":true         // 将双引号转成单引号
+}
